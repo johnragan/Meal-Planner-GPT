@@ -11,7 +11,7 @@ Source indicates where the recipe came from. Many of these came from the New Yor
 
 Interest represents how interested we are in trying the recipe.
 
-Cooking Status indicates a New recipe that we have not tried yet, a Favorite, or Cooked which is one we tried that was not a Favorite but that we are still willing to cook.
+Cooking Status indicates a New recipe that we have not tried yet, or one that we have Tried.
 
 Meal Time indicates when the recipe could be used, such as Breakfast, Lunch, Dinner, or Snack.
 

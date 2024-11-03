@@ -4,7 +4,7 @@ Pumpkin Maple Muffins,5,5709,50 minutes,NYTimes Cooking,Medium,New,Dinner,Unknow
 Gochugaru Salmon With Crispy Rice,5,4817,20 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Momofuku Bo Ssam,5,8813,7 hours - plus 6 hours seasoning,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Pulled Pork,4,498,4 hours,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
-Shrimp and Corn Chowder,5,550,About 1 hour,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
+Shrimp and Corn Chowder,5,550,About 1 hour,NYTimes Cooking,Medium,Tried,Dinner,4,Unknown
 Ricotta Pasta Alla Vodka,5,2984,45 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Italian
 Egg Foo Young,4,1005,40 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Sheet-Pan Bibimbap,5,6246,35 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
@@ -88,7 +88,7 @@ Basic Pesto,5,7901,15 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Shrimp Linguine With Herbs - Corn and Arugula,4,2840,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Roasted Salmon With Miso Rice and Ginger-Scallion Vinaigrette,4,4516,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Japanese
 Chicken Piccata,4,9760,25 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
-Honey-Garlic Chicken,5,1397,25 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
+Honey-Garlic Chicken,5,1397,25 minutes,NYTimes Cooking,Medium,Tried,Dinner,5,Unknown
 Halloumi - Arugula and Tomato Sandwiches,5,484,1 hour,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Crispy Sour Cream and Onion Chicken,4,7698,35 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Crispy Coconut Rice With Tofu,4,1009,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
@@ -171,7 +171,7 @@ Strawberry Spoon Cake,5,10865,30 minutes - plus cooling,NYTimes Cooking,Medium,N
 Classic Ranch Dressing,4,944,15 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Korean Fried Chicken,5,1472,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Shrimp Tempura,4,28,55 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Japanese
-Grilled Soy-Basted Chicken Thighs With Spicy Cashews,5,2743,1 hour,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
+Grilled Soy-Basted Chicken Thighs With Spicy Cashews,5,2743,1 hour,NYTimes Cooking,Medium,Tried,Dinner,4,Unknown
 Shrimp Pasta,5,2016,45 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Italian
 Curry Chicken Fried Rice,5,377,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Chinese
 Hot Honey,4,44,20 minutes - plus cooling,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
@@ -181,13 +181,13 @@ Sheet-Pan Japchae,4,793,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unk
 One-Pot Miso-Mascarpone Pasta,5,1277,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Italian
 Brown Butter Bucatini With Charred Cabbage,4,214,45 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Gochujang Shrimp Pasta,4,499,30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Italian
-Miso Roasted Salmon,4,488,15 minutes - plus overnight marinating,NYTimes Cooking,Medium,New,Dinner,Unknown,Japanese
+Miso Roasted Salmon,4,488,15 minutes - plus overnight marinating,NYTimes Cooking,Medium,Tried,Dinner,4,Japanese
 Pan-Roasted Fish Fillets With Herb Butter,5,3234,20 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Everyday Pancakes,4,13293,20 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Quiche Lorraine,5,4041,1 hour 10 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,French
 Extra-Creamy Scrambled Eggs,4,7149,5 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Piloncillo Chocolate Chip Cookies,4,691,1 hour,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
-Spicy Shrimp Patties,4,380,40 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
+Spicy Shrimp Patties,4,380,40 minutes,NYTimes Cooking,Medium,Tried,Dinner,4,Unknown
 Fireplace Trout,4,241,10 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Brisket,4,467,12 hours,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Coconut Rice With Shrimp and Corn,4,3970,45 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
@@ -266,45 +266,49 @@ Apples With Honey and Crushed Walnuts,4,403,15 minutes,NYTimes Cooking,Medium,Ne
 Fall Salad With Apples - Cheddar and Crispy Sage,4,819,25 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Zha Jiang Mian,4,73,35 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
 Pumpkin Bread,4,3285,1 hours 30 minutes,NYTimes Cooking,Medium,New,Dinner,Unknown,Unknown
+Baked Cod with Buttery Cracker Topping,4,1798,25 minutes,NYTimes Cooking,Medium,Tried,Dinner,5,Unknown
+Cajun Shrimp Boil,4,566,1 hour 15 minutes,NYTimes Cooking,High,Tried,Dinner,5,Unknown
+Shrimp Burgers,5,1159,30 minutes,NYTimes Cooking,High,Tried,Dinner,5,Unknown
+Shrimp Tacos,5,2419,35 minutes,NYTimes Cooking,High,Tried,Dinner,5,Unknown
 BBQ Fajitas,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,American
-Soft/Hard Tacos,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Mexican
-Steamed Crab/Shrimp,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-"Caper and butter cod/tilapia, etc. (more cod)",Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
+Soft/Hard Tacos,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Mexican
+Steamed Crab/Shrimp,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+"Caper and butter cod/tilapia, etc. (more cod)",Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
 Swai Fish,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Grilled Cheese,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Hot Dogs (limited),Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,American
-Roasted supermarket chicken,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Spaghetti,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Shrimp or crawfish etouffee,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Chili,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Panini,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Hamburgers,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,American
-French Toast,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Traeger chicken,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Monsieur Croque,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-BBQ Chicken Sandwiches,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,American
-Chicken Salad Sandwiches,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Chicken Enchiladas,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Mexican
+Grilled Cheese,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Hot Dogs (limited),Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,3,American
+Roasted supermarket chicken,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
+Spaghetti,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
+Shrimp or crawfish etouffee,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Chili,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Panini,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Hamburgers,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,American
+French Toast,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Traeger chicken,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Monsieur Croque,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+BBQ Chicken Sandwiches,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,American
+Chicken Salad Sandwiches,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Chicken Enchiladas,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Mexican
 Allie's Chicken Fettuccini Alfredo,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
 Chicken & Spinach Quesadillas,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Mexican
 Green Chicken Enchiladas,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Mexican
-Tuna fish sandwiches,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Egg sandwiches,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Frittata,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
+Tuna fish sandwiches,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
+Egg sandwiches,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
+Frittata,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
 Pasta with chicken/shrimp etc. in Christines collection,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Italian
 Pot Roast,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-"Jiko Fish Dish (or Chicken, et al)",Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-French bread pizza,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Italian
-Hot sausage sandwiches - rolls,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Unknown
-Chicken Nachos,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Mexican
-Pizza from Kitchenaid,Unknown,Unknown,Unknown,Family,Medium,New,Dinner,Unknown,Italian
+"Jiko Fish Dish (or Chicken, et al)",Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Unknown
+French bread pizza,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,4,Italian
+Hot sausage sandwiches - rolls,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Unknown
+Chicken Nachos,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Mexican
+Pizza from Kitchenaid,Unknown,Unknown,Unknown,Family,Medium,Tried,Dinner,5,Italian
 Spaghetti Carbonara (page 157),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
 Chicken & Arugula Pesto Paste (page 159),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
-Pasta with Brown Butter & Asparagus (page 160),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Italian
-Penne with Vodka Sauce (page 164),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
-Tagliatelle with Shrimp (not crab) (page 165),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
-Pappardelle with Shredded Beef Ragu (page 167),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
-Creamy Mushroom Stroganoff (page 179),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
+Pasta with Brown Butter & Asparagus (page 160),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,Tried,Dinner,4,Italian
+Penne with Vodka Sauce (page 164),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,Tried,Dinner,4,Unknown
+Tagliatelle with Shrimp (not crab) (page 165),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,Tried,Dinner,4,Unknown
+Pappardelle with Shredded Beef Ragu (page 167),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,Tried,Dinner,4,Unknown
+Creamy Mushroom Stroganoff (page 179),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,Tried,Dinner,4,Unknown
 Shanghai Noodles with Pork (page 182),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Chinese
 Chicken Couscous (page 189),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
 Trout Amandine (page 231),Unknown,Unknown,Unknown,The Weeknight Cook,Medium,New,Dinner,Unknown,Unknown
